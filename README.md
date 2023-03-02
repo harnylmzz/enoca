@@ -10,10 +10,15 @@ Bu demo ile personellerinizin ve çalıştığınız şirketlerin bilgisini gün
 
 ## Employee sınıfından bir örnek:
 
-![Ekran Alıntısı](https://user-images.githubusercontent.com/113914227/222342832-6e072f04-f1ca-4e93-a6f9-99ec370a4952.JPG)
+
+![Ekran Alıntısı](https://user-images.githubusercontent.com/113914227/222343108-9d6a5eb7-6e61-4850-91b7-f36ba3b366a2.JPG)
 
 
 
+## Company sınıfından bir örnek:
+
+
+![Ekran Alıntısı](https://user-images.githubusercontent.com/113914227/222344038-36e35b32-602a-4950-a5c3-8ef1ed835b1b.JPG)
 
 
 
