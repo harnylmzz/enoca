@@ -18,7 +18,8 @@ Bu demo ile personellerinizin ve çalıştığınız şirketlerin bilgisini gün
 ## Company sınıfından bir örnek:
 
 
-![Ekran Alıntısı](https://user-images.githubusercontent.com/113914227/222344038-36e35b32-602a-4950-a5c3-8ef1ed835b1b.JPG)
+![Ekran Alıntısı](https://user-images.githubusercontent.com/113914227/222344206-abb336cf-395b-4c15-a3df-64e1ce7af7e9.JPG)
+
 
 
 
